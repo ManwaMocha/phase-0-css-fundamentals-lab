@@ -1,5 +1,50 @@
 body {
+  text-align: center;
   width: 100%;
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+#img {
+  text-align: center;
+
+}
+a {
+  
+  background-color:grey ;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption {
+  font-size: small;
+}
+#featured-property {
+  text-size-adjust: 800px;
+  text-align: center;
+
+}
+div {
+  float: left;
+  background-color: red;
+  text-align: center;
+  min-width: 25%;
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
